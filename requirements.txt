@@ -1,0 +1,15 @@
+kivy==2.2.1
+kivymd==1.1.1
+requests==2.31.0
+socket
+dnspython
+ipwhois
+speedtest-cli
+ping3
+pyOpenSSL
+uuid
+hashlib
+base64
+traceroute
+matplotlib
+seaborn
